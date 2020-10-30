@@ -153,6 +153,7 @@ function Outrage() {
       );
       rayquaza.mouseClick();
       sleep(getRandomInt(634, 780));
+      tick(getRandomInt(700, 800));
       rayquaza.moveMouseSmooth(getRandomInt(432, 454), getRandomInt(327, 342));
       rayquaza.mouseClick();
 
