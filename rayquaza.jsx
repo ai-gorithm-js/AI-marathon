@@ -172,5 +172,25 @@ function closeBank() {
     sleep(231);
   }
 }
-
+/* instant 70 Outrage
+function click() {
+  var counter = 999;
+  while (0 < counter) {
+    scv.moveMouse(
+      getRandomInt(581 - 4, 581 + 4),
+      getRandomInt(256 - 3, 256 + 3)
+    );
+    scv.mouseClick();
+    sleep(50, 100);
+    scv.moveMouse(
+      getRandomInt(581 - 4, 581 + 4),
+      getRandomInt(291 - 3, 291 + 3)
+    );
+    scv.mouseClick();
+    console.log(counter + ' many times left');
+    counter--;
+  }
+}
+click();
+*/
 Outrage();
