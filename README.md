@@ -19,3 +19,6 @@ Harnessing the power computation, from sand to silicon to transistors to ALUs to
 Push the limits of gaming, or in this case upgrading a skill level by performing a sequential action at maximum efficiency.
 
 
+# Goals
+
+A purely mathematical approach to solve a solution 300%-3000%-30000% the rate of speed of human capacity, will be used in the programming projects to be followed with the actual implemention and realization of an intelligence created artificially.
